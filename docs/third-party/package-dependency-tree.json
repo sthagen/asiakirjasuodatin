@@ -1,0 +1,16 @@
+[
+    {
+        "key": "msgspec",
+        "package_name": "msgspec",
+        "installed_version": "0.16.0",
+        "required_version": "0.16.0",
+        "dependencies": []
+    },
+    {
+        "key": "pandocfilters",
+        "package_name": "pandocfilters",
+        "installed_version": "1.5.0",
+        "required_version": "1.5.0",
+        "dependencies": []
+    }
+]
