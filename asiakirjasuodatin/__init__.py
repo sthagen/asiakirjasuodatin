@@ -1,7 +1,7 @@
 """Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin, transform it in some way, and write it to stdout."""
 # [[[fill git_describe()]]]
-__version__ = '2023.6.21+parent.090d802f'
-# [[[end]]] (checksum: b2d5ee748ed63dc0bc63eda72fbc118d)
+__version__ = '2023.6.24+parent.ca064f8f'
+# [[[end]]] (checksum: 1ddc9981f2f3804884391b42c2f12878)
 __version_info__ = tuple(
     e if '-' not in e else e.split('-')[0] for part in __version__.split('+') for e in part.split('.') if e != 'parent'
 )
