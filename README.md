@@ -11,6 +11,7 @@ Third party dependencies are documented in the folder [third-party](docs/third-p
 [![wheel](https://img.shields.io/pypi/wheel/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
+[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/asiakirjasuodatin.svg?style=flat)](https://git.sr.ht/~sthagen/asiakirjasuodatin/log)
 
 ## Documentation
 
