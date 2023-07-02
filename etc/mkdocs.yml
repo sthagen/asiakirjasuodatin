@@ -1,5 +1,7 @@
 site_name: Asiakirjasuodatin
 site_description: "Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin, transform it in some way, and write it to stdout."
+docs_dir: ../docs
+site_dir: ../site
 
 theme:
   name: 'material'
