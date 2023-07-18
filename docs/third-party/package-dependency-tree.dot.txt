@@ -1,4 +1,4 @@
 digraph {
-	msgspec [label="msgspec\n0.16.0"]
+	msgspec [label="msgspec\n0.17.0"]
 	pandocfilters [label="pandocfilters\n1.5.0"]
 }
