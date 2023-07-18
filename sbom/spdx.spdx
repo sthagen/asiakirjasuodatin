@@ -1,47 +1,47 @@
 SPDXVersion: SPDX-2.3
 DataLicense: CC0-1.0
-DocumentNamespace: https://cyclonedx/ccbe40dc-1748-496a-93a6-504990b5e9a5_1
+DocumentNamespace: https://cyclonedx/7072e2c5-122c-4f26-a8b6-0a2109d2a072_1
 DocumentName: From-Cyclone-DX
 SPDXID: SPDXRef-DOCUMENT
 
 ## Creation Information
-Creator: Tool: CycloneDX:cyclonedx-bom-3.11.0
+Creator: Tool: CycloneDX:cyclonedx-bom-3.11.2
 Creator: Tool: CycloneDX:cyclonedx-python-lib-3.1.5
 Creator: Tool: CycloneToSpdx-0.1.4
-Created: 2023-07-02T20:28:50Z
+Created: 2023-07-18T19:06:50Z
 CreatorComment: <text>Converted from CycloneDX spec version 1.4</text>
 LicenseListVersion: 3.21
 ## Annotations
 Annotator: Tool: CycloneToSpdx
-AnnotationDate: 2023-07-02T20:28:52Z
+AnnotationDate: 2023-07-18T19:06:52Z
 AnnotationComment: <text>MISSING_CDX_PROPERTY:extensions={}</text>
 AnnotationType: OTHER
 SPDXREF: SPDXRef-DOCUMENT
 ## Relationships
-Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-5cac5688-7865-4b53-b056-d13e7906a0f9
-Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-a7b8bda4-3da4-40e9-90fc-5508496b78fb
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-1cfa467f-c310-4ceb-a896-255ab6eac762
+Relationship: SPDXRef-DOCUMENT DESCRIBES SPDXRef-7ef8ca7b-ebad-42cc-adcc-fdc62c2c6d07
 
 ## Package Information
 PackageName: msgspec
-SPDXID: SPDXRef-5cac5688-7865-4b53-b056-d13e7906a0f9
-PackageVersion: 0.16.0
+SPDXID: SPDXRef-7ef8ca7b-ebad-42cc-adcc-fdc62c2c6d07
+PackageVersion: 0.17.0
 PackageDownloadLocation: NOASSERTION
 PrimaryPackagePurpose: LIBRARY
 PackageLicenseConcluded: NOASSERTION
 PackageLicenseDeclared: NOASSERTION
 PackageCopyrightText: NOASSERTION
-ExternalRef: PACKAGE-MANAGER purl pkg:pypi/msgspec@0.16.0
+ExternalRef: PACKAGE-MANAGER purl pkg:pypi/msgspec@0.17.0
 ## Annotations
 Annotator: Tool: CycloneToSpdx
-AnnotationDate: 2023-07-02T20:28:52Z
+AnnotationDate: 2023-07-18T19:06:52Z
 AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
 AnnotationType: OTHER
-SPDXREF: SPDXRef-5cac5688-7865-4b53-b056-d13e7906a0f9
+SPDXREF: SPDXRef-7ef8ca7b-ebad-42cc-adcc-fdc62c2c6d07
 FilesAnalyzed: false
 
 ## Package Information
 PackageName: pandocfilters
-SPDXID: SPDXRef-a7b8bda4-3da4-40e9-90fc-5508496b78fb
+SPDXID: SPDXRef-1cfa467f-c310-4ceb-a896-255ab6eac762
 PackageVersion: 1.5.0
 PackageDownloadLocation: NOASSERTION
 PrimaryPackagePurpose: LIBRARY
@@ -51,10 +51,10 @@ PackageCopyrightText: NOASSERTION
 ExternalRef: PACKAGE-MANAGER purl pkg:pypi/pandocfilters@1.5.0
 ## Annotations
 Annotator: Tool: CycloneToSpdx
-AnnotationDate: 2023-07-02T20:28:52Z
+AnnotationDate: 2023-07-18T19:06:52Z
 AnnotationComment: <text>MISSING_CDX_PROPERTY:componentType="LIBRARY"</text>
 AnnotationType: OTHER
-SPDXREF: SPDXRef-a7b8bda4-3da4-40e9-90fc-5508496b78fb
+SPDXREF: SPDXRef-1cfa467f-c310-4ceb-a896-255ab6eac762
 FilesAnalyzed: false
 
 
