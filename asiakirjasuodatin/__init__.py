@@ -1,4 +1,5 @@
-"""Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin, transform it in some way, and write it to stdout."""
+"""Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin,
+transform it in some way, and write it to stdout."""
 import pathlib
 
 # [[[fill git_describe()]]]
@@ -10,7 +11,7 @@ __version_info__ = tuple(
 
 APP_ALIAS = str(pathlib.Path(__file__).parent.name)
 APP_ENV = APP_ALIAS.upper()
-APP_NAME = locals()['__doc__']
+APP_NAME = locals()['__doc__'].replace('\n', ' ')
 
 VERSION = __version__
 VERSION_INFO = __version_info__
