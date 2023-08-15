@@ -2,10 +2,10 @@
   "$schema": "http://cyclonedx.org/schema/bom-1.4.schema.json",
   "bomFormat": "CycloneDX",
   "specVersion": "1.4",
-  "serialNumber": "urn:uuid:8a94586e-3326-4f73-83b4-533ce4fd11c2",
+  "serialNumber": "urn:uuid:98ccae00-15a9-494a-89dc-58695147351c",
   "version": 1,
   "metadata": {
-    "timestamp": "2023-08-13T13:04:23.860367+00:00",
+    "timestamp": "2023-08-15T05:50:21.707265+00:00",
     "tools": [
       {
         "vendor": "CycloneDX",
@@ -56,14 +56,14 @@
   "components": [
     {
       "type": "library",
-      "bom-ref": "49f1918a-ed7d-43a1-8879-984b9339dbd7",
+      "bom-ref": "4a4a9cad-7666-4039-942d-47bc68939c73",
       "name": "msgspec",
       "version": "0.17.0",
       "purl": "pkg:pypi/msgspec@0.17.0"
     },
     {
       "type": "library",
-      "bom-ref": "bcdf1503-e503-48f1-b00b-e8a3b6a84bd8",
+      "bom-ref": "6cb3056e-9b19-4cf2-8093-e0ac566ea678",
       "name": "pandocfilters",
       "version": "1.5.0",
       "purl": "pkg:pypi/pandocfilters@1.5.0"
@@ -71,11 +71,11 @@
   ],
   "dependencies": [
     {
-      "ref": "49f1918a-ed7d-43a1-8879-984b9339dbd7",
+      "ref": "4a4a9cad-7666-4039-942d-47bc68939c73",
       "dependsOn": []
     },
     {
-      "ref": "bcdf1503-e503-48f1-b00b-e8a3b6a84bd8",
+      "ref": "6cb3056e-9b19-4cf2-8093-e0ac566ea678",
       "dependsOn": []
     }
   ]
