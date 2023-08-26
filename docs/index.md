@@ -7,7 +7,7 @@ Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of t
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
 [![version](https://img.shields.io/pypi/v/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
-[![downloads](https://pepy.tech/badge/asiakirjasuodatin/month)](https://pepy.tech/project/asiakirjasuodatin)
+[![downloads](https://static.pepy.tech/badge/asiakirjasuodatin/month)](https://pepy.tech/project/asiakirjasuodatin)
 [![wheel](https://img.shields.io/pypi/wheel/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
 [![supported-versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
 [![supported-implementations](https://img.shields.io/pypi/implementation/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
