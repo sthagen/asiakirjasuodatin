@@ -2,7 +2,9 @@
 
 Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin, transform it in some way, and write it to stdout.
 
-[License: MIT](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/LICENSE)
+[License: MIT](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/LICENSE) |
+[Country of origin: Switzerland](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/COUNTRY-OF-ORIGIN) |
+[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 
 Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
 
