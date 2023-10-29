@@ -2,18 +2,15 @@
 
 Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin, transform it in some way, and write it to stdout.
 
-[License: MIT](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/LICENSE) | 
-[Country of origin: Switzerland](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/COUNTRY-OF-ORIGIN) | 
-[Export control classification number(ECCN): EAR99](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![License](docs/badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/LICENSE)
+[![Country of Origin](docs/badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](docs/badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![Configuration](docs/badges/configuration-sbom.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/docs/third-party/README.md)
 
-Third party dependencies are documented in the folder [third-party](docs/third-party/README.md).
-
-[![version](https://img.shields.io/pypi/v/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
-[![downloads](https://static.pepy.tech/badge/asiakirjasuodatin/month)](https://pepy.tech/project/asiakirjasuodatin)
-[![wheel](https://img.shields.io/pypi/wheel/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
-[![supported-versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
-[![supported-implementations](https://img.shields.io/pypi/implementation/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
-[![maintenance-status](https://img.shields.io/github/commit-activity/y/sthagen/asiakirjasuodatin.svg?style=flat)](https://git.sr.ht/~sthagen/asiakirjasuodatin/log)
+[![Version](https://img.shields.io/pypi/v/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
+[![Downloads](https://static.pepy.tech/badge/asiakirjasuodatin/month)](https://pepy.tech/project/asiakirjasuodatin)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/asiakirjasuodatin.svg?style=flat)](https://git.sr.ht/~sthagen/asiakirjasuodatin/log)
 
 ## Documentation
 
