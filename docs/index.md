@@ -2,15 +2,15 @@
 
 Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin, transform it in some way, and write it to stdout.
 
-[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatinNAME/tree/default/item/LICENSE)
-[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatinNAME/tree/default/item/COUNTRY-OF-ORIGIN)
-[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatinNAME/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
+[![license](badges/license-spdx-mit.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/LICENSE)
+[![Country of Origin](badges/country-of-origin-name-switzerland-neutral.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/COUNTRY-OF-ORIGIN)
+[![Export Classification Control Number (ECCN)](badges/export-control-classification-number_eccn-ear99-neutral.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/tree/default/item/EXPORT-CONTROL-CLASSIFICATION-NUMBER)
 [![Configuration](badges/configuration-sbom.svg)](third-party/index.html)
 
-[![Version](https://img.shields.io/pypi/v/asiakirjasuodatinNAME.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatinNAME/)
-[![Downloads](https://static.pepy.tech/badge/asiakirjasuodatinNAME/month)](https://pepy.tech/project/asiakirjasuodatinNAME)
-[![Supported Versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatinNAME.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatinNAME/)
-[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/asiakirjasuodatinNAME.svg?style=flat)](https://git.sr.ht/~sthagen/asiakirjasuodatinNAME/log)
+[![Version](https://img.shields.io/pypi/v/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
+[![Downloads](https://static.pepy.tech/badge/asiakirjasuodatin/month)](https://pepy.tech/project/asiakirjasuodatin)
+[![Supported Versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
+[![Maintenance Status](https://img.shields.io/github/commit-activity/y/sthagen/asiakirjasuodatin.svg?style=flat)](https://git.sr.ht/~sthagen/asiakirjasuodatin/log)
 
 ## Bug Tracker
 
