@@ -10,7 +10,7 @@ Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of t
 [![Version](https://img.shields.io/pypi/v/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
 [![Downloads](https://static.pepy.tech/badge/asiakirjasuodatin/month)](https://pepy.tech/project/asiakirjasuodatin)
 [![Supported Versions](https://img.shields.io/pypi/pyversions/asiakirjasuodatin.svg?style=flat)](https://pypi.python.org/pypi/asiakirjasuodatin/)
-[![Maintenance Status](docs/badges/downloads-per-month.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/log)
+[![Maintenance Status](docs/badges/commits-per-year.svg)](https://git.sr.ht/~sthagen/asiakirjasuodatin/log)
 
 ## Documentation
 
