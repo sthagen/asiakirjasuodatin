@@ -1,25 +1,43 @@
 {
   "total": {
-    "commits": 428,
-    "first_committed_at": "2023-11-25T20:48:41+00:00",
-    "last_committed_at": "2023-06-24T11:43:06+00:00",
+    "commits": 432,
+    "first_committed_at": "2023-06-24T11:43:06+00:00",
+    "last_committed_at": "2023-11-25T22:00:39+00:00",
     "month_span_day_count": 154,
     "year_span": 0.42191780821917807,
-    "commits_per_year": 1014,
-    "insertions_per_year": 20300.16233766234,
-    "deletions_per_year": 5757.045454545455,
-    "lines_per_year": 26057.20779220779,
-    "files_per_year": 1794.1883116883118,
-    "insertions_count": 8565,
-    "deletions_count": 2429,
-    "lines_count": 10994,
-    "files_count": 757,
-    "insertions_avg": 20.011682242990656,
-    "deletions_avg": 5.675233644859813,
-    "lines_avg": 25.686915887850468,
-    "files_avg": 1.7686915887850467
+    "commits_per_year": 1023,
+    "insertions_per_year": 20335.714285714286,
+    "deletions_per_year": 5790.227272727273,
+    "lines_per_year": 26125.94155844156,
+    "files_per_year": 1806.0389610389611,
+    "insertions_count": 8580,
+    "deletions_count": 2443,
+    "lines_count": 11023,
+    "files_count": 762,
+    "insertions_avg": 19.86111111111111,
+    "deletions_avg": 5.655092592592593,
+    "lines_avg": 25.516203703703702,
+    "files_avg": 1.7638888888888888
   },
   "commit_stats": {
+    "2023-11-25T22:00:39+00:00": {
+      "insertions": 3,
+      "deletions": 2,
+      "lines": 5,
+      "files": 1
+    },
+    "2023-11-25T21:17:25+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-25T21:17:24+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
     "2023-11-25T20:48:41+00:00": {
       "insertions": 29,
       "deletions": 17,
@@ -3465,11 +3483,11 @@
       "files": 4
     },
     "2023-11-25": {
-      "commits": 5,
-      "insertions": 3564,
-      "deletions": 19,
-      "lines": 3583,
-      "files": 5
+      "commits": 8,
+      "insertions": 3579,
+      "deletions": 33,
+      "lines": 3612,
+      "files": 10
     }
   }
 }
