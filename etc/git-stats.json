@@ -1,0 +1,3457 @@
+{
+  "total": {
+    "commits": 425,
+    "first_committed_at": "2023-11-25T20:12:52+00:00",
+    "last_committed_at": "2023-06-24T11:43:06+00:00",
+    "month_span_day_count": 154,
+    "year_span": 0.42191780821917807,
+    "commits_per_year": 1007,
+    "insertions_per_year": 12018.928571428572,
+    "deletions_per_year": 5716.753246753247,
+    "lines_per_year": 17735.68181818182,
+    "files_per_year": 1787.077922077922,
+    "insertions_count": 5071,
+    "deletions_count": 2412,
+    "lines_count": 7483,
+    "files_count": 754,
+    "insertions_avg": 11.931764705882353,
+    "deletions_avg": 5.675294117647059,
+    "lines_avg": 17.60705882352941,
+    "files_avg": 1.7741176470588236
+  },
+  "commit_stats": {
+    "2023-11-25T20:12:52+00:00": {
+      "insertions": 69,
+      "deletions": 1,
+      "lines": 70,
+      "files": 1
+    },
+    "2023-11-25T17:03:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-24T15:46:40+00:00": {
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 3
+    },
+    "2023-11-24T03:00:33+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-23T21:26:20+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-23T18:09:21+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-23T03:30:00+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-22T16:27:35+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-21T22:02:35+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-21T21:39:10+00:00": {
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 2
+    },
+    "2023-11-21T19:09:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-21T18:35:28+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-21T15:40:04+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-21T15:15:47+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-21T13:39:42+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-21T11:26:33+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-21T03:12:30+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-20T20:11:45+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-20T19:53:36+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-20T17:17:56+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-20T17:17:55+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-20T02:44:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-19T20:46:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-19T18:13:46+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-19T08:41:57+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-18T19:18:31+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-18T13:54:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-18T10:03:16+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-17T21:18:50+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-17T20:20:14+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-17T19:58:36+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-16T22:45:53+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-16T14:58:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-16T07:15:44+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-16T03:35:21+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-15T20:07:05+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-15T18:08:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-15T18:02:39+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-14T20:00:01+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-14T19:45:19+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-14T15:05:01+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-13T21:57:21+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-13T17:30:24+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-12T21:23:28+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-12T17:11:48+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-11T20:34:45+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-11T20:34:44+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-11T16:28:45+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-11T09:20:00+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-10T23:37:38+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-11-10T21:01:52+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-10T21:01:51+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-10T17:19:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-10T15:56:20+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-10T14:21:55+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-09T20:19:07+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-09T20:12:45+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-09T16:25:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-09T16:20:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-08T22:45:10+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-11-08T16:16:31+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-08T15:36:14+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-08T15:25:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-07T22:59:27+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-07T22:50:17+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-06T19:47:49+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 2
+    },
+    "2023-11-06T19:32:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-05T12:33:18+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-11-05T07:17:19+00:00": {
+      "insertions": 9,
+      "deletions": 4,
+      "lines": 13,
+      "files": 2
+    },
+    "2023-11-05T06:47:33+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-05T06:42:15+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-05T06:36:47+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-04T02:59:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-03T20:55:31+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 1
+    },
+    "2023-11-03T20:51:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-03T20:32:30+00:00": {
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 1
+    },
+    "2023-11-03T20:32:29+00:00": {
+      "insertions": 47,
+      "deletions": 2,
+      "lines": 49,
+      "files": 1
+    },
+    "2023-11-03T20:32:28+00:00": {
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 1
+    },
+    "2023-11-03T14:45:10+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-03T13:56:04+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-03T07:28:46+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-03T07:12:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-02T15:26:16+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-02T04:55:26+00:00": {
+      "insertions": 19,
+      "deletions": 4,
+      "lines": 23,
+      "files": 2
+    },
+    "2023-11-01T19:07:14+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-01T15:04:02+00:00": {
+      "insertions": 12,
+      "deletions": 4,
+      "lines": 16,
+      "files": 1
+    },
+    "2023-11-01T11:13:13+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-01T11:09:42+00:00": {
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 2
+    },
+    "2023-11-01T11:09:39+00:00": {
+      "insertions": 16,
+      "deletions": 6,
+      "lines": 22,
+      "files": 2
+    },
+    "2023-10-31T19:50:10+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-31T19:41:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-31T15:18:28+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-31T15:15:33+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-31T15:06:51+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-31T14:42:15+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-30T22:59:41+00:00": {
+      "insertions": 19,
+      "deletions": 0,
+      "lines": 19,
+      "files": 1
+    },
+    "2023-10-30T22:59:40+00:00": {
+      "insertions": 33,
+      "deletions": 0,
+      "lines": 33,
+      "files": 1
+    },
+    "2023-10-30T22:48:00+00:00": {
+      "insertions": 19,
+      "deletions": 0,
+      "lines": 19,
+      "files": 1
+    },
+    "2023-10-30T22:47:58+00:00": {
+      "insertions": 38,
+      "deletions": 0,
+      "lines": 38,
+      "files": 1
+    },
+    "2023-10-30T22:04:33+00:00": {
+      "insertions": 57,
+      "deletions": 0,
+      "lines": 57,
+      "files": 3
+    },
+    "2023-10-30T21:40:12+00:00": {
+      "insertions": 150,
+      "deletions": 0,
+      "lines": 150,
+      "files": 1
+    },
+    "2023-10-30T21:40:10+00:00": {
+      "insertions": 33,
+      "deletions": 0,
+      "lines": 33,
+      "files": 1
+    },
+    "2023-10-30T21:13:30+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-30T19:43:44+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-10-30T19:11:24+00:00": {
+      "insertions": 0,
+      "deletions": 140,
+      "lines": 140,
+      "files": 7
+    },
+    "2023-10-30T19:03:12+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-30T18:57:35+00:00": {
+      "insertions": 20,
+      "deletions": 0,
+      "lines": 20,
+      "files": 1
+    },
+    "2023-10-30T18:57:34+00:00": {
+      "insertions": 20,
+      "deletions": 0,
+      "lines": 20,
+      "files": 1
+    },
+    "2023-10-30T18:37:50+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-30T18:16:03+00:00": {
+      "insertions": 19,
+      "deletions": 0,
+      "lines": 19,
+      "files": 1
+    },
+    "2023-10-30T18:16:01+00:00": {
+      "insertions": 19,
+      "deletions": 0,
+      "lines": 19,
+      "files": 1
+    },
+    "2023-10-30T16:21:02+00:00": {
+      "insertions": 0,
+      "deletions": 2,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-30T15:30:13+00:00": {
+      "insertions": 0,
+      "deletions": 80,
+      "lines": 80,
+      "files": 1
+    },
+    "2023-10-30T14:28:12+00:00": {
+      "insertions": 10,
+      "deletions": 1,
+      "lines": 11,
+      "files": 1
+    },
+    "2023-10-30T13:16:52+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-30T12:52:36+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-30T12:52:35+00:00": {
+      "insertions": 38,
+      "deletions": 0,
+      "lines": 38,
+      "files": 1
+    },
+    "2023-10-30T12:21:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-29T22:29:17+00:00": {
+      "insertions": 7,
+      "deletions": 0,
+      "lines": 7,
+      "files": 1
+    },
+    "2023-10-29T22:07:54+00:00": {
+      "insertions": 9,
+      "deletions": 0,
+      "lines": 9,
+      "files": 1
+    },
+    "2023-10-29T21:31:41+00:00": {
+      "insertions": 17,
+      "deletions": 0,
+      "lines": 17,
+      "files": 1
+    },
+    "2023-10-29T20:35:48+00:00": {
+      "insertions": 7,
+      "deletions": 7,
+      "lines": 14,
+      "files": 1
+    },
+    "2023-10-29T20:29:14+00:00": {
+      "insertions": 9,
+      "deletions": 12,
+      "lines": 21,
+      "files": 1
+    },
+    "2023-10-29T19:20:02+00:00": {
+      "insertions": 9,
+      "deletions": 12,
+      "lines": 21,
+      "files": 1
+    },
+    "2023-10-29T18:49:19+00:00": {
+      "insertions": 380,
+      "deletions": 0,
+      "lines": 380,
+      "files": 19
+    },
+    "2023-10-29T16:58:20+00:00": {
+      "insertions": 3,
+      "deletions": 0,
+      "lines": 3,
+      "files": 1
+    },
+    "2023-10-29T13:11:44+00:00": {
+      "insertions": 106,
+      "deletions": 0,
+      "lines": 106,
+      "files": 1
+    },
+    "2023-10-29T13:11:40+00:00": {
+      "insertions": 6,
+      "deletions": 0,
+      "lines": 6,
+      "files": 1
+    },
+    "2023-10-29T12:09:09+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-28T17:13:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-28T16:52:31+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-28T15:44:11+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-28T15:06:51+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-28T14:37:33+00:00": {
+      "insertions": 4,
+      "deletions": 0,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-10-28T14:26:25+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-28T14:05:33+00:00": {
+      "insertions": 0,
+      "deletions": 4,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-10-28T13:50:57+00:00": {
+      "insertions": 8,
+      "deletions": 0,
+      "lines": 8,
+      "files": 1
+    },
+    "2023-10-26T20:31:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-24T20:51:54+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-24T17:28:01+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-24T17:11:44+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-24T16:59:15+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-24T16:41:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-23T20:04:39+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-23T18:17:17+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-22T11:27:03+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-20T15:02:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-20T14:35:01+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-20T03:58:57+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-19T19:19:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-19T19:09:25+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-19T18:33:13+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-18T21:58:38+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-18T16:19:29+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-18T16:13:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-18T16:01:55+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-17T17:37:25+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-17T14:17:07+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-16T20:29:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-16T18:38:42+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-16T15:17:24+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-14T19:07:23+00:00": {
+      "insertions": 3,
+      "deletions": 1,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-10-14T18:25:41+00:00": {
+      "insertions": 2,
+      "deletions": 1,
+      "lines": 3,
+      "files": 1
+    },
+    "2023-10-14T18:14:31+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-10-14T17:28:20+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-13T19:11:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-13T15:17:51+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-12T21:36:16+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-12T19:36:39+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-12T15:54:48+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-11T19:37:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-11T14:38:51+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-10T22:01:41+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-10T21:50:54+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-10T18:12:27+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-09T16:25:50+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-08T10:54:57+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-07T20:22:58+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-07T11:27:21+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-07T08:55:27+00:00": {
+      "insertions": 66,
+      "deletions": 66,
+      "lines": 132,
+      "files": 20
+    },
+    "2023-10-07T08:19:54+00:00": {
+      "insertions": 4,
+      "deletions": 0,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-10-07T02:14:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-07T02:07:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-06T14:06:35+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-05T14:08:48+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-03T16:16:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-02T18:44:15+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-02T17:00:56+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-02T15:42:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-02T15:36:00+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-01T15:34:33+00:00": {
+      "insertions": 0,
+      "deletions": 1,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-01T15:04:11+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-01T09:44:08+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-01T09:07:32+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-01T08:49:26+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-01T08:33:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-01T08:21:28+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-29T14:22:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-27T15:44:37+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-25T17:45:01+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-25T17:24:35+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-24T06:29:45+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-23T17:56:05+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-23T06:36:44+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-22T18:15:16+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-22T16:26:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-22T16:13:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-22T15:56:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-21T21:09:09+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-21T20:12:45+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-21T19:59:33+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-20T15:56:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-20T15:51:46+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-20T15:43:07+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-20T14:54:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-19T20:31:53+00:00": {
+      "insertions": 2,
+      "deletions": 0,
+      "lines": 2,
+      "files": 2
+    },
+    "2023-09-19T18:33:25+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-18T17:16:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-17T19:39:52+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-17T10:46:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-17T10:39:10+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-17T10:17:58+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-17T09:43:27+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-15T22:03:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-15T21:57:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-14T14:41:35+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-12T17:29:07+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-12T16:55:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-12T16:16:39+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11T17:59:37+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11T17:42:57+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11T16:42:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11T08:17:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11T07:37:42+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11T07:24:11+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-10T11:50:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-09T09:52:30+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-09T09:39:52+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-09T09:29:19+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-07T20:38:37+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-07T20:27:41+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-07T19:47:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-07T19:16:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-07T19:06:27+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-07T18:38:51+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-06T14:47:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-06T14:29:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-05T18:32:44+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-04T15:38:24+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-04T15:31:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-03T20:04:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-02T21:05:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-02T17:24:26+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-02T12:24:35+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-02T11:37:23+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-09-02T11:25:07+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-02T11:20:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-01T20:28:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-01T19:24:44+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-01T19:17:13+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-01T19:10:17+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-01T18:58:25+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-31T17:03:13+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-30T15:48:31+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-28T20:06:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-28T19:51:15+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-26T12:07:28+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-26T06:31:19+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-24T20:23:28+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-22T19:17:24+00:00": {
+      "insertions": 63,
+      "deletions": 63,
+      "lines": 126,
+      "files": 20
+    },
+    "2023-08-22T19:17:12+00:00": {
+      "insertions": 0,
+      "deletions": 292,
+      "lines": 292,
+      "files": 20
+    },
+    "2023-08-22T18:36:31+00:00": {
+      "insertions": 292,
+      "deletions": 0,
+      "lines": 292,
+      "files": 20
+    },
+    "2023-08-22T18:36:18+00:00": {
+      "insertions": 292,
+      "deletions": 292,
+      "lines": 584,
+      "files": 40
+    },
+    "2023-08-22T07:57:41+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-21T15:59:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-21T15:51:31+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-20T19:57:46+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-19T10:41:27+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-08-19T09:34:00+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-08-19T09:09:01+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-08-18T13:28:15+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-18T07:45:36+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-18T04:24:58+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-17T08:17:58+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-16T19:42:30+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-16T06:08:25+00:00": {
+      "insertions": 63,
+      "deletions": 63,
+      "lines": 126,
+      "files": 20
+    },
+    "2023-08-16T06:08:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-15T17:35:01+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-15T05:50:33+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-08-15T05:50:32+00:00": {
+      "insertions": 63,
+      "deletions": 63,
+      "lines": 126,
+      "files": 20
+    },
+    "2023-08-15T05:50:12+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-14T17:44:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-13T13:58:30+00:00": {
+      "insertions": 0,
+      "deletions": 3,
+      "lines": 3,
+      "files": 1
+    },
+    "2023-08-13T13:04:33+00:00": {
+      "insertions": 63,
+      "deletions": 63,
+      "lines": 126,
+      "files": 20
+    },
+    "2023-08-13T06:15:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-12T19:30:23+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-12T06:20:18+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-11T21:17:06+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-10T14:38:31+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-09T19:52:53+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-09T18:46:54+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-08T19:54:14+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-08T10:29:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-07T20:05:19+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-06T20:32:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-06T19:07:49+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-06T14:25:46+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-06T09:13:02+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-03T13:41:16+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-01T19:10:36+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-31T20:35:06+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-31T14:20:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-30T19:29:20+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-30T07:04:04+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-29T21:46:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-29T21:40:10+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-29T21:38:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-28T20:03:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-23T05:26:54+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-22T17:59:44+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-22T07:56:41+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T17:54:28+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:59:19+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:54:26+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:50:29+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:45:55+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:36:24+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:27:55+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T16:23:14+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20T14:31:58+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-19T15:32:28+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-18T19:07:31+00:00": {
+      "insertions": 18,
+      "deletions": 18,
+      "lines": 36,
+      "files": 7
+    },
+    "2023-07-18T19:07:25+00:00": {
+      "insertions": 71,
+      "deletions": 71,
+      "lines": 142,
+      "files": 20
+    },
+    "2023-07-18T19:07:19+00:00": {
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 1
+    },
+    "2023-07-18T19:06:44+00:00": {
+      "insertions": 11,
+      "deletions": 0,
+      "lines": 11,
+      "files": 1
+    },
+    "2023-07-18T19:06:29+00:00": {
+      "insertions": 3,
+      "deletions": 2,
+      "lines": 5,
+      "files": 1
+    },
+    "2023-07-18T18:59:53+00:00": {
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 2
+    },
+    "2023-07-18T18:59:33+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-07-17T16:06:52+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-17T07:33:42+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-16T07:53:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-15T20:38:08+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-15T18:02:20+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-15T11:44:27+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-07-15T11:10:35+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-07-15T10:38:23+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-07-15T10:02:06+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-15T07:45:38+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-07-15T06:56:16+00:00": {
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-07-15T06:24:20+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-14T20:26:41+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-14T20:06:53+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-13T13:13:38+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-12T17:50:33+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-12T14:43:03+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-12T14:24:14+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-11T16:11:51+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-11T15:46:04+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-11T15:27:25+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-10T18:22:32+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-09T07:40:43+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-08T17:02:55+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-07T20:17:27+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-07T16:29:24+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-07T15:43:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-06T21:18:40+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-05T14:23:34+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-04T16:42:57+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-03T20:29:30+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-02T20:33:08+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-07-02T20:32:34+00:00": {
+      "insertions": 16,
+      "deletions": 3,
+      "lines": 19,
+      "files": 1
+    },
+    "2023-07-02T20:32:24+00:00": {
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 1
+    },
+    "2023-07-02T20:32:06+00:00": {
+      "insertions": 2,
+      "deletions": 0,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-02T20:31:56+00:00": {
+      "insertions": 8,
+      "deletions": 7,
+      "lines": 15,
+      "files": 1
+    },
+    "2023-07-02T20:31:40+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-07-02T20:31:33+00:00": {
+      "insertions": 63,
+      "deletions": 63,
+      "lines": 126,
+      "files": 20
+    },
+    "2023-07-02T20:31:23+00:00": {
+      "insertions": 6,
+      "deletions": 0,
+      "lines": 6,
+      "files": 1
+    },
+    "2023-07-02T20:31:09+00:00": {
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 1
+    },
+    "2023-07-02T20:30:26+00:00": {
+      "insertions": 568,
+      "deletions": 568,
+      "lines": 1136,
+      "files": 20
+    },
+    "2023-07-01T18:54:52+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-01T16:44:07+00:00": {
+      "insertions": 2,
+      "deletions": 0,
+      "lines": 2,
+      "files": 2
+    },
+    "2023-07-01T16:23:36+00:00": {
+      "insertions": 5,
+      "deletions": 2,
+      "lines": 7,
+      "files": 1
+    },
+    "2023-07-01T11:56:10+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-28T14:45:59+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-27T19:21:05+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-27T17:30:24+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-26T21:15:19+00:00": {
+      "insertions": 0,
+      "deletions": 4,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-06-26T14:48:22+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-26T14:39:30+00:00": {
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-24T11:53:44+00:00": {
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 1
+    },
+    "2023-06-24T11:43:06+00:00": {
+      "insertions": 1664,
+      "deletions": 0,
+      "lines": 1664,
+      "files": 64
+    }
+  },
+  "daily": {
+    "2023-06-24": {
+      "commits": 2,
+      "insertions": 1666,
+      "deletions": 2,
+      "lines": 1668,
+      "files": 65
+    },
+    "2023-06-25": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-06-26": {
+      "commits": 3,
+      "insertions": 2,
+      "deletions": 6,
+      "lines": 8,
+      "files": 4
+    },
+    "2023-06-27": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-06-28": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-06-29": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-06-30": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-07-01": {
+      "commits": 4,
+      "insertions": 9,
+      "deletions": 4,
+      "lines": 13,
+      "files": 5
+    },
+    "2023-07-02": {
+      "commits": 10,
+      "insertions": 671,
+      "deletions": 649,
+      "lines": 1320,
+      "files": 48
+    },
+    "2023-07-03": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-04": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-05": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-06": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-07": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-07-08": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-09": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-10": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-11": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-07-12": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-07-13": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-14": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-07-15": {
+      "commits": 9,
+      "insertions": 9,
+      "deletions": 4,
+      "lines": 13,
+      "files": 9
+    },
+    "2023-07-16": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-17": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-07-18": {
+      "commits": 7,
+      "insertions": 111,
+      "deletions": 98,
+      "lines": 209,
+      "files": 33
+    },
+    "2023-07-19": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-20": {
+      "commits": 9,
+      "insertions": 9,
+      "deletions": 9,
+      "lines": 18,
+      "files": 9
+    },
+    "2023-07-21": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-07-22": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-07-23": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-24": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-07-25": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-07-26": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-07-27": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-07-28": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-07-29": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-07-30": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-07-31": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-01": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-02": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-03": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-04": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-05": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-06": {
+      "commits": 4,
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 4
+    },
+    "2023-08-07": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-08": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-09": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-10": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-11": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-12": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-13": {
+      "commits": 3,
+      "insertions": 64,
+      "deletions": 67,
+      "lines": 131,
+      "files": 22
+    },
+    "2023-08-14": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-15": {
+      "commits": 4,
+      "insertions": 67,
+      "deletions": 67,
+      "lines": 134,
+      "files": 23
+    },
+    "2023-08-16": {
+      "commits": 3,
+      "insertions": 65,
+      "deletions": 65,
+      "lines": 130,
+      "files": 22
+    },
+    "2023-08-17": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-18": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-08-19": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 0,
+      "lines": 3,
+      "files": 3
+    },
+    "2023-08-20": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-21": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-22": {
+      "commits": 5,
+      "insertions": 648,
+      "deletions": 648,
+      "lines": 1296,
+      "files": 101
+    },
+    "2023-08-23": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-24": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-25": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-26": {
+      "commits": 2,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-08-27": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-28": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-08-29": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-08-30": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-08-31": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-01": {
+      "commits": 5,
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 5
+    },
+    "2023-09-02": {
+      "commits": 6,
+      "insertions": 6,
+      "deletions": 5,
+      "lines": 11,
+      "files": 6
+    },
+    "2023-09-03": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-04": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-09-05": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-06": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-09-07": {
+      "commits": 6,
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 6
+    },
+    "2023-09-08": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-09-09": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-09-10": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-11": {
+      "commits": 6,
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 6
+    },
+    "2023-09-12": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-09-13": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-09-14": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-15": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-09-16": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-09-17": {
+      "commits": 5,
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 5
+    },
+    "2023-09-18": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-19": {
+      "commits": 2,
+      "insertions": 3,
+      "deletions": 1,
+      "lines": 4,
+      "files": 3
+    },
+    "2023-09-20": {
+      "commits": 4,
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 4
+    },
+    "2023-09-21": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-09-22": {
+      "commits": 4,
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 4
+    },
+    "2023-09-23": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-09-24": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-25": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-09-26": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-09-27": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-28": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-09-29": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-09-30": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-10-01": {
+      "commits": 7,
+      "insertions": 6,
+      "deletions": 4,
+      "lines": 10,
+      "files": 7
+    },
+    "2023-10-02": {
+      "commits": 4,
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 4
+    },
+    "2023-10-03": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-04": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-10-05": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-06": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-07": {
+      "commits": 6,
+      "insertions": 74,
+      "deletions": 70,
+      "lines": 144,
+      "files": 25
+    },
+    "2023-10-08": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-09": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-10": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-10-11": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-10-12": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-10-13": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-10-14": {
+      "commits": 4,
+      "insertions": 8,
+      "deletions": 4,
+      "lines": 12,
+      "files": 4
+    },
+    "2023-10-15": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-10-16": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-10-17": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 2,
+      "lines": 4,
+      "files": 2
+    },
+    "2023-10-18": {
+      "commits": 4,
+      "insertions": 4,
+      "deletions": 4,
+      "lines": 8,
+      "files": 4
+    },
+    "2023-10-19": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-10-20": {
+      "commits": 3,
+      "insertions": 3,
+      "deletions": 3,
+      "lines": 6,
+      "files": 3
+    },
+    "2023-10-21": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-10-22": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 0,
+      "lines": 1,
+      "files": 1
+    },
+    "2023-10-23": {
+      "commits": 2,
+      "insertions": 2,
+      "deletions": 1,
+      "lines": 3,
+      "files": 2
+    },
+    "2023-10-24": {
+      "commits": 5,
+      "insertions": 5,
+      "deletions": 5,
+      "lines": 10,
+      "files": 5
+    },
+    "2023-10-25": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-10-26": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-10-27": {
+      "commits": 0,
+      "insertions": 0,
+      "deletions": 0,
+      "lines": 0,
+      "files": 0
+    },
+    "2023-10-28": {
+      "commits": 8,
+      "insertions": 17,
+      "deletions": 9,
+      "lines": 26,
+      "files": 8
+    },
+    "2023-10-29": {
+      "commits": 11,
+      "insertions": 554,
+      "deletions": 31,
+      "lines": 585,
+      "files": 29
+    },
+    "2023-10-30": {
+      "commits": 23,
+      "insertions": 483,
+      "deletions": 229,
+      "lines": 712,
+      "files": 31
+    },
+    "2023-10-31": {
+      "commits": 6,
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 6
+    },
+    "2023-11-01": {
+      "commits": 5,
+      "insertions": 39,
+      "deletions": 21,
+      "lines": 60,
+      "files": 8
+    },
+    "2023-11-02": {
+      "commits": 2,
+      "insertions": 20,
+      "deletions": 5,
+      "lines": 25,
+      "files": 3
+    },
+    "2023-11-03": {
+      "commits": 9,
+      "insertions": 68,
+      "deletions": 23,
+      "lines": 91,
+      "files": 9
+    },
+    "2023-11-04": {
+      "commits": 1,
+      "insertions": 1,
+      "deletions": 1,
+      "lines": 2,
+      "files": 1
+    },
+    "2023-11-05": {
+      "commits": 5,
+      "insertions": 13,
+      "deletions": 7,
+      "lines": 20,
+      "files": 6
+    },
+    "2023-11-06": {
+      "commits": 2,
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 3
+    },
+    "2023-11-07": {
+      "commits": 2,
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 3
+    },
+    "2023-11-08": {
+      "commits": 4,
+      "insertions": 10,
+      "deletions": 9,
+      "lines": 19,
+      "files": 5
+    },
+    "2023-11-09": {
+      "commits": 4,
+      "insertions": 10,
+      "deletions": 10,
+      "lines": 20,
+      "files": 5
+    },
+    "2023-11-10": {
+      "commits": 6,
+      "insertions": 16,
+      "deletions": 15,
+      "lines": 31,
+      "files": 8
+    },
+    "2023-11-11": {
+      "commits": 4,
+      "insertions": 14,
+      "deletions": 14,
+      "lines": 28,
+      "files": 6
+    },
+    "2023-11-12": {
+      "commits": 2,
+      "insertions": 12,
+      "deletions": 12,
+      "lines": 24,
+      "files": 4
+    },
+    "2023-11-13": {
+      "commits": 2,
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 3
+    },
+    "2023-11-14": {
+      "commits": 3,
+      "insertions": 9,
+      "deletions": 9,
+      "lines": 18,
+      "files": 4
+    },
+    "2023-11-15": {
+      "commits": 3,
+      "insertions": 9,
+      "deletions": 9,
+      "lines": 18,
+      "files": 4
+    },
+    "2023-11-16": {
+      "commits": 4,
+      "insertions": 14,
+      "deletions": 14,
+      "lines": 28,
+      "files": 6
+    },
+    "2023-11-17": {
+      "commits": 3,
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 4
+    },
+    "2023-11-18": {
+      "commits": 3,
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 4
+    },
+    "2023-11-19": {
+      "commits": 3,
+      "insertions": 8,
+      "deletions": 8,
+      "lines": 16,
+      "files": 4
+    },
+    "2023-11-20": {
+      "commits": 5,
+      "insertions": 14,
+      "deletions": 14,
+      "lines": 28,
+      "files": 7
+    },
+    "2023-11-21": {
+      "commits": 9,
+      "insertions": 30,
+      "deletions": 30,
+      "lines": 60,
+      "files": 13
+    },
+    "2023-11-22": {
+      "commits": 1,
+      "insertions": 6,
+      "deletions": 6,
+      "lines": 12,
+      "files": 2
+    },
+    "2023-11-23": {
+      "commits": 3,
+      "insertions": 12,
+      "deletions": 12,
+      "lines": 24,
+      "files": 5
+    },
+    "2023-11-24": {
+      "commits": 2,
+      "insertions": 9,
+      "deletions": 9,
+      "lines": 18,
+      "files": 4
+    },
+    "2023-11-25": {
+      "commits": 2,
+      "insertions": 70,
+      "deletions": 2,
+      "lines": 72,
+      "files": 2
+    }
+  }
+}
