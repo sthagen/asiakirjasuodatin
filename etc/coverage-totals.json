@@ -1,7 +1,7 @@
 {
   "asiakirjasuodatin": {
-    "version": "7.3.2",
-    "timestamp": "2023-12-02T15:13:45.648776",
+    "coverage_tool_version": "7.3.2",
+    "timestamp": "2023-12-02 15:50:15 +00:00",
     "branch_coverage": false,
     "show_contexts": true,
     "covered_lines": 0,
@@ -9,6 +9,23 @@
     "percent_covered": 0,
     "percent_covered_display": "0.00",
     "missing_lines": 14,
-    "excluded_lines": 0
+    "excluded_lines": 0,
+    "node_id": "c79891e5-aabf-3a83-95b9-588edcd8327f",
+    "nfiles": 4,
+    "files": [
+      "asiakirjasuodatin/__init__.py",
+      "asiakirjasuodatin/api.py",
+      "asiakirjasuodatin/cli.py",
+      "asiakirjasuodatin/empty.py"
+    ],
+    "blake3": "fc50b61862ad58c6528680e829f5647f32dc73127fb79c0f49d80a860cf8be19",
+    "blake2": "fae4a40f11888d0286cfe198f6dd959211174c320b654a8a320f86a9aa8e859a729ea79ac4d94be38df45e68bb3949cf0a0914f62091abdf362f08f33ae1ea5d",
+    "sha512": "61edd17e264cfd40d71bc82bb6a29ac15820293947266e4bb77538d79f42d19385d6b74a5a21b7b699bf0ad942888ea89fb88c96772d5abf1ccf5da6337e2a19",
+    "sha384": "c6725e0154492b039f0d9af6a364954a60fabc1f4ee3d71f145b4ddb7c23a63f4a78a805b70b430b30eb05b22a5ca4c8",
+    "sha256": "3be8b4149d93dc9e19c257dda4cba1d2154faed3fe0940c73a1e0f20a3301969",
+    "sha1": "01dd07fd7989906926dacc2df2566045a7a5208d",
+    "md5": "ea8ebc6f1b7e6db81fdd9d70d5f53b83",
+    "python_version": "3.11.4",
+    "entropy": 5.216045
   }
 }
