@@ -1,4 +1,5 @@
 """Empty or No op filter."""
+
 from pandocfilters import toJSONFilter  # type: ignore
 
 

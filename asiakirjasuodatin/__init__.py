@@ -1,5 +1,6 @@
 """Document filter (Finnish: asiakirjasuodatin) that read a JSON serialization of the Pandoc AST from stdin,
 transform it in some way, and write it to stdout."""
+
 import pathlib
 
 # [[[fill git_describe()]]]
